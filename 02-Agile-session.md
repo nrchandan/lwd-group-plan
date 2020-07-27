@@ -1,4 +1,5 @@
 Agile session (vs Waterfall)
+===
 
 - Terminology
   - Stories (tasks)
@@ -13,4 +14,3 @@ Agile session (vs Waterfall)
   - Desk check
   - Showcase
   - Retrospective
-- 
