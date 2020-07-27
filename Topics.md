@@ -1,8 +1,9 @@
 Topics
 ===
 
-- Git & GitHub
 - Walkthrough of real-world project
+- Git & GitHub
+- CI/CD via GitHub Actions
 - Agile methodology of running projects
 - Kanban methodology
 - API: what are these, their importance, how they are build and how do the operate.
