@@ -1,7 +1,7 @@
 Topics
 ===
 
-- Walkthrough of real-world project
+- Walkthrough of a real-world project
 - Git & GitHub
 - CI/CD via GitHub Actions
 - Agile methodology of running projects
@@ -9,3 +9,5 @@ Topics
 - API: what are these, their importance, how they are build and how do the operate.
 - How does Project moves from one step to another: Real time project life cycle, we may start from BDE to post sales services
 - Create your personal webpage
+- Make a few open source contributions
+- Hackathon using no-code or low-code platforms
